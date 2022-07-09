@@ -140,8 +140,16 @@
 
 //temrature Fharan to Celciues
 
-let temInF = 100;
+// let temInF = 50;
 
-let C = ((temInF - 32) * 5) / 9;
+// let C = ((temInF - 32) * 5) / 9;
 
-console.log(C);
+// console.log(C);
+
+// Boolean
+
+let Amark = 6;
+
+let grade = Amark == 10;
+
+console.log(grade);
