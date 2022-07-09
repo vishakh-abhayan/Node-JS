@@ -103,9 +103,9 @@
 
 // console.log(newarry)
 
-// const numA=[18,48,600,70,30,34];
+// const numA = [18, 48, 600, 70, 30, 34];
 
-// const Atotal=numA.reduce((total,value)=>total+value,0);
+// const Atotal = numA.reduce((total, value) => total + value,0);
 // console.log(Atotal);
 
 // const newobj = globalPlayar.find(value=>value.id === 1);
@@ -148,8 +148,14 @@
 
 // Boolean
 
-let Amark = 6;
+// let Amark = 6;
 
-let grade = Amark == 10;
+// let grade = Amark == 10;
 
-console.log(grade);
+// console.log(grade);
+
+const globalPlayar = ["vishakh", "marks", "jobs"];
+
+const arry = globalPlayar.map((value) => value);
+
+console.log(arry[0]);
