@@ -19,6 +19,6 @@
 // newFunction();
 // console.log(newFunction());
 
-newFunction = () => 109;
+// newFunction = () => 109;
 
-console.log(newFunction());
+// console.log(newFunction());
