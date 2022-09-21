@@ -1,24 +1,24 @@
-// console.log("Running.........");
+console.log("Running.........");
 
-// function newFunction() {
-//   console.log("hello......");
-// }
+function newFunction() {
+  console.log("hello......");
+}
 
-// newFunction();
+newFunction();
 
-// const array = ["a", "b", "h"];
-// const newArray = [...array, "g"];
+const array = ["a", "b", "h"];
+const newArray = [...array, "g"];
 
-// console.log(array);
-// console.log(newArray);
+console.log(array);
+console.log(newArray);
 
-// function newFunction() {
-//   return 19;
-// }
+function newFunction() {
+  return 19;
+}
 
-// newFunction();
-// console.log(newFunction());
+newFunction();
+console.log(newFunction());
 
-// newFunction = () => 109;
+newFunction = () => 109;
 
-// console.log(newFunction());
+console.log(newFunction());
